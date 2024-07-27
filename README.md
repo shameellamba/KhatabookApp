@@ -27,7 +27,7 @@ Khatabook is a web application designed to help you easily record and manage you
 
 **Record Transactions**: Add new transactions with details like date, customer name, amount, and description.
 **View Transactions**: View a list of all recorded transactions.
-**Coming Soon**: Integration with *MongoDB* for more robust data storage and management and *JWT authentication* for enhanced security and user accounts.
+**Coming Soon**: Integration with ***MongoDB*** for more robust data storage and management and ***JWT authentication*** for enhanced security and user accounts.
 
 ## Disclaimer
 This is a basic Node.js/EJS implementation for demonstration purposes. For production use, consider implementing security measures, data validation, and error handling.
